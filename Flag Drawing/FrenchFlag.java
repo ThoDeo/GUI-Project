@@ -1,3 +1,4 @@
+package FlagDrawing;
 import javax.swing.*;
 import java.awt.*;
 public class FrenchFlag {
